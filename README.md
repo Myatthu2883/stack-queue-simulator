@@ -93,5 +93,3 @@ src/
 - **CSS Modules** — scoped keyframe animations (`popIn`, `flashAnim`)
 
 ---
-
-*Part of a 30-day CS Portfolio Project series.*
