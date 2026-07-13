@@ -1,5 +1,5 @@
 # Stack & Queue Simulator
-### Portfolio Project — Day 03
+### Portfolio Project 
 
 An interactive simulator for two foundational data structures — **Stack (LIFO)** and **Queue (FIFO)** — with real-time animations, a bonus balanced parentheses checker, and a hot potato simulation. Built with **Next.js 15 (App Router)** and **React 18**.
 
